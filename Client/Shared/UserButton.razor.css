@@ -1,0 +1,27 @@
+﻿/* Ensures the dropdown menu is visible when toggled */
+.show {
+    display: block;
+}
+
+/* Adjust the margin and position of the dropdown menu */
+.dropdown-menu {
+    margin: 0;
+    min-width: 10rem;
+}
+
+/* Right align the dropdown menu */
+.dropdown-menu-right {
+    right: auto;
+    left: 0;
+}
+
+/* Styling for the user button */
+.user-button {
+    margin-left: .5em;
+}
+
+/* Hover effect for dropdown items */
+.dropdown-item:hover {
+    background-color: #f8f9fa;
+    color: #333;
+}

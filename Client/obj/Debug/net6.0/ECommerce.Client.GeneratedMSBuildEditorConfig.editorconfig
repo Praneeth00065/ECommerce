@@ -1,0 +1,143 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = ECommerce.Client
+build_property.RootNamespace = ECommerce.Client
+build_property.ProjectDir = C:\Users\PK016086\source\repos\ECommerce\ECommerce\Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\PK016086\source\repos\ECommerce\ECommerce\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/CartCounter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydENvdW50ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/OrderSuccess.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJTdWNjZXNzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/Profile.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Shared/AddressForm.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkZHJlc3NGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Shared/Search.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNlYXJjaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/Admin/Categories.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcmllcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-cywydnnyi2
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/Admin/EditProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdFByb2R1Y3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-fadpcul02r
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/Admin/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4amvw42qaf
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/Admin/ProductTypes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdFR5cGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-4uv9k2cr18
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/Cart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ur2fbn9crs
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/OrderDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-ypio86syhu
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/Orders.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-bbosbhjo6a
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Pages/ProductDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-kuqh2twvc6
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Shared/AdminMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkbWluTWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-g78eikj3by
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Shared/FeaturedProducts.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZlYXR1cmVkUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-is3m924y5p
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Shared/HomeButton.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhvbWVCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ia1o4aij97
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-pfru9pf8b7
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-s4rni3g0pg
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Shared/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFByb2R1Y3RMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-rxx37a9f1p
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Shared/ShopLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNob3BMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rr6n7ulru9
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Shared/ShopNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNob3BOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-vh42f4ywcj
+
+[C:/Users/PK016086/source/repos/ECommerce/ECommerce/Client/Shared/UserButton.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFVzZXJCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-0vrpoga6la

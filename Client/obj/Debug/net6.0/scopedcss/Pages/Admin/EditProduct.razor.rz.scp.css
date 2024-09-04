@@ -1,0 +1,26 @@
+img[b-fadpcul02r] {
+    max-height: 200px;
+    max-width: 200px;
+}
+
+.row[b-fadpcul02r] {
+    display: flex;
+    padding: 6px;
+}
+
+.col[b-fadpcul02r] {
+    flex: 1;
+}
+
+.header[b-fadpcul02r] {
+    display: flex;
+    font-weight: 600;
+    text-align: center;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 6px;
+    padding-bottom: 6px;
+}
+
+.col-visible[b-fadpcul02r] {
+    text-align: center;
+}

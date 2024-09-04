@@ -1,0 +1,11 @@
+C:\Users\PK016086\source\repos\ECommerce\ECommerce\Shared\bin\Debug\net6.0\ECommerce.Shared.deps.json
+C:\Users\PK016086\source\repos\ECommerce\ECommerce\Shared\bin\Debug\net6.0\ECommerce.Shared.dll
+C:\Users\PK016086\source\repos\ECommerce\ECommerce\Shared\bin\Debug\net6.0\ECommerce.Shared.pdb
+C:\Users\PK016086\source\repos\ECommerce\ECommerce\Shared\obj\Debug\net6.0\ECommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PK016086\source\repos\ECommerce\ECommerce\Shared\obj\Debug\net6.0\ECommerce.Shared.AssemblyInfoInputs.cache
+C:\Users\PK016086\source\repos\ECommerce\ECommerce\Shared\obj\Debug\net6.0\ECommerce.Shared.AssemblyInfo.cs
+C:\Users\PK016086\source\repos\ECommerce\ECommerce\Shared\obj\Debug\net6.0\ECommerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\PK016086\source\repos\ECommerce\ECommerce\Shared\obj\Debug\net6.0\ECommerce.Shared.dll
+C:\Users\PK016086\source\repos\ECommerce\ECommerce\Shared\obj\Debug\net6.0\refint\ECommerce.Shared.dll
+C:\Users\PK016086\source\repos\ECommerce\ECommerce\Shared\obj\Debug\net6.0\ECommerce.Shared.pdb
+C:\Users\PK016086\source\repos\ECommerce\ECommerce\Shared\obj\Debug\net6.0\ref\ECommerce.Shared.dll

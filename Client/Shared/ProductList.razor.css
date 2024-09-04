@@ -1,0 +1,45 @@
+﻿.media {
+    display: flex;
+    align-items: center; /* Center items vertically */
+    flex-wrap: wrap; /* Allow wrapping */
+    margin-bottom: 20px; /* Add space between items */
+}
+
+.media-img-wrapper {
+    flex: 0 0 auto; /* Do not stretch the image wrapper */
+    width: 200px; /* Fixed width for the image wrapper */
+    text-align: center;
+    margin-right: 20px; /* Space between image and text */
+}
+
+.media-img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 6px;
+    transition: transform 0.2s; /* Smooth scaling on hover */
+}
+
+    .media-img:hover {
+        transform: scale(1.1); /* Zoom effect on hover */
+    }
+
+.media-body {
+    flex: 1; /* Fill remaining space */
+}
+
+@media (max-width: 768px) {
+    .media {
+        flex-direction: column; /* Stack vertically on smaller screens */
+        align-items: flex-start; /* Align items to the start */
+    }
+
+    .media-img-wrapper {
+        width: 100%; /* Full width for image wrapper */
+        margin-right: 0; /* Remove margin */
+        margin-bottom: 10px; /* Add space below the image */
+    }
+
+    .media-body {
+        width: 100%; /* Full width for the text */
+    }
+}
